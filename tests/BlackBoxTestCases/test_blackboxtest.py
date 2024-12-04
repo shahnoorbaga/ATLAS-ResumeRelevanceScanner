@@ -1,6 +1,6 @@
 import requests
 
-#Black Box testing for frontend
+#Black Box testing for frontend ops
 
 def test_website_health_endpoint1():
     #Testing the base endpoint
